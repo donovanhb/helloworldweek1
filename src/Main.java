@@ -5,6 +5,9 @@ public class Main {
 
 
         System.out.println("i winn");
+
+
+        System.out.println("lol");
     }
 
 }
